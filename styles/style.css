@@ -10,7 +10,11 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 20%;
+}
+
+.list-text {
+    font-size: 18px;
 }
 
 .text-center {
